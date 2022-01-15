@@ -1,5 +1,5 @@
 # Mp3-player
-It is a python project
+It is a python project that uses the pygame module and its features to creat an mp3 player
 contributors:
 <br>
 TEAM MEMBERS
